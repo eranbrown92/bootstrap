@@ -1,2 +1,0 @@
-# bootstrap
-Created with CodeSandbox
